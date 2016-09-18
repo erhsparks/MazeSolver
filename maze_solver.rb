@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 class MazeSolver
   attr_reader :maze, :all_visited_places, :current_positions, :pathhh
 
